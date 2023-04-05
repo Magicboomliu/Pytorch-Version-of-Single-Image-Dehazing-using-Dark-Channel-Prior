@@ -31,9 +31,9 @@ dehaze_images, dc,airlight,raw_t,refined_transmission,depth = dark_channel_piror
 
 If you find this implementation is helpful, please consider to cite: 
 ```
-@misc{hang2021tinyhitnet,
-  title={TinyHITNet},
-  author={zjjMaiMai},
+@misc{zihualiu2023DCP,
+  title={Pytorch-Version-of-Single-Image-Dehazing-using-Dark-Channel-Prior},
+  author={Zihua Liu},
   howpublished={\url{https://github.com/Magicboomliu/Pytorch-Version-of-Single-Image-Dehazing-using-Dark-Channel-Prior}},
   year={2021}
 }
