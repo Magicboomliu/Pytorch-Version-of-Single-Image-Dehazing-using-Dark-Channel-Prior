@@ -35,6 +35,6 @@ If you find this implementation is helpful, please consider to cite:
   title={Pytorch-Version-of-Single-Image-Dehazing-using-Dark-Channel-Prior},
   author={Zihua Liu},
   howpublished={\url{https://github.com/Magicboomliu/Pytorch-Version-of-Single-Image-Dehazing-using-Dark-Channel-Prior}},
-  year={2021}
+  year={2023}
 }
 ```
