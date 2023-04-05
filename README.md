@@ -34,7 +34,7 @@ If you find this implementation is helpful, please consider to cite:
 @misc{hang2021tinyhitnet,
   title={TinyHITNet},
   author={zjjMaiMai},
-  howpublished={\url{https://github.com/zjjMaiMai/TinyHITNet}},
+  howpublished={\url{https://github.com/Magicboomliu/Pytorch-Version-of-Single-Image-Dehazing-using-Dark-Channel-Prior}},
   year={2021}
 }
 ```
