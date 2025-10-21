@@ -151,12 +151,3 @@ If you find this implementation helpful in your research, please consider citing
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-<div align="center">
-
-**Made with ❤️ by [Zihua Liu](https://github.com/Magicboomliu)**
-
-⭐ Star this repo if you find it useful! ⭐
-
-</div>
